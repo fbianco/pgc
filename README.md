@@ -1,0 +1,4 @@
+pgc
+===
+
+PGC LaTeX Class
